@@ -1,1 +1,1 @@
-These are some simple applications for learing flutter
+These are some simple applications for learning flutter
